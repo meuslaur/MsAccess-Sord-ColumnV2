@@ -1,0 +1,27 @@
+﻿{
+  "Info": {
+    "Class": "clsDbDocument",
+    "Description": "Database Documents Properties (DAO)"
+  },
+  "Items": {
+    "Databases": {
+      "SummaryInfo": {
+        "Author": "MeusLau",
+        "Comments": "https://github.com/meuslaur/MsAccess-Sord-Column",
+        "Subject": "Uitlitaire",
+        "Title": "CSordColumnV2"
+      }
+    },
+    "Modules": {
+      "CCreateFormColumn": {
+        "Description": "Classe de création automatique d'un formulaire pour utilisation de la classe CSordFormColumn."
+      },
+      "CSordFormColumn": {
+        "Description": "Classe pour le tri des colonnes d'un formulaire en continu."
+      },
+      "MD_VbComp": {
+        "Description": "Module pour gestion VBE."
+      }
+    }
+  }
+}
