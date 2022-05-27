@@ -40,5 +40,20 @@
 - (+)Plus de table contenant le code.
 - (-)Plus de suffixe possible sur les TextBox et CommandButton.
 - Utilisation des noms de fonction et de variable de classe par défaut.
-- Choix ogligation des images sur les CommandButton.
+- Choix obligation des images sur les CommandButton.
 - (+)Renforcement de la gestions des erreurs.
+
+## Résumé
+
+|   Créer le|   2022/05/27|
+| - | - |
+|   Auteur| [@meuslau](https://github.com/meuslaur)|
+|   Catégorie|   MsAccess|
+|   Type|   Utilitaire|
+|   Langage|   VBA|
+
+## Outils :
+
+### Code exporter avec l'outil de : [@joyfullservice](https://github.com/joyfullservice) - [msaccess-vcs-integration](https://github.com/joyfullservice/msaccess-vcs-integration)
+
+- Créez une base vide et utilisez `msaccess-vcs-integration` pour réimporter le code.
