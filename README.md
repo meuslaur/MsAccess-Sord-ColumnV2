@@ -7,7 +7,7 @@
 
 ### SUPP
 -----
-- - Suppréssion des Suffixe.
+- - Suppression des suffixes.
 - - Utilise un preffixe par defaut "txt_" plus de len pref/suff.
 - - Suppréssion TexteOn et TexteColor.
 - - Supprime les paramètres de la fonction `SordColumn`.
@@ -19,7 +19,7 @@
 - - 
 ### MOD
 ----
-- - Utilise VarClasse et function par defauts (`m_CSordForm` et `SordColumn`).
+- - Utilise VarClasse et function par defaut (`m_CSordForm` et `SordColumn`).
 - - Utilise CurrentProject si le dossier des images est un sous-dossier de l'application.
 - - Modification Fonction `CreateModule` (Création de la classe et du module standard).
 - - Modification de la fonction `CreateFormColumn`.
@@ -36,12 +36,12 @@
 
 - (-)Ne permet plus d'utiliser différentes images sur les boutons.
 - (+)Le formulaire ne contient plus de code.
-- (+)Utilisation plus simple sur un sous-formulaire.
+- (+)Utilisation plus simple sur un sous formulaire.
 - (+)Plus de table contenant le code.
-- (-)Plus de suffixe possible sur les TextBox et CommandButton.
+- (-)Plus de suffixes possible sur les TextBox et CommandButton.
 - Utilisation des noms de fonction et de variable de classe par défaut.
 - Choix obligation des images sur les CommandButton.
-- (+)Renforcement de la gestions des erreurs.
+- (+)Renforcement de la gestion des erreurs.
 
 ## Résumé
 
@@ -54,6 +54,6 @@
 
 ## Outils :
 
-### Code exporter avec l'outil de : [@joyfullservice](https://github.com/joyfullservice) - [msaccess-vcs-integration](https://github.com/joyfullservice/msaccess-vcs-integration)
+### Code exporté avec l'outil de : [@joyfullservice](https://github.com/joyfullservice) - [msaccess-vcs-integration](https://github.com/joyfullservice/msaccess-vcs-integration)
 
 - Créez une base vide et utilisez `msaccess-vcs-integration` pour réimporter le code.
